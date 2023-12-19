@@ -1,0 +1,10 @@
+D:\unity\OnlineGame\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+D:\unity\OnlineGame\GameServer\GameServer\obj\Debug\GameServer.csproj.SuggestedBindingRedirects.cache
+D:\unity\OnlineGame\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\unity\OnlineGame\GameServer\GameServer\bin\Debug\GameServer.exe
+D:\unity\OnlineGame\GameServer\GameServer\bin\Debug\GameServer.pdb
+D:\unity\OnlineGame\GameServer\GameServer\obj\Debug\GameServer.exe
+D:\unity\OnlineGame\GameServer\GameServer\obj\Debug\GameServer.pdb
+D:\unity\OnlineGame\GameServer\GameServer\bin\Debug\System.Numerics.Vectors.dll
+D:\unity\OnlineGame\GameServer\GameServer\bin\Debug\System.Numerics.Vectors.xml
+D:\unity\OnlineGame\GameServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete
